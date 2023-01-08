@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**denys-volodarskyi/denys-volodarskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about reverse engineering and creating my own RCE tools. Commercially and for fun. 
 
-Here are some ideas to get you started:
+- x86, x64 and ARM. And some less popular.
+- I prefer C# and C++.
+- File formats, packers/unpackers, protectors... (disassembling everything)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me if you're interested to collaborate on:
+
+- C#: Parsing and extracting runtime type information for known compilers,
+  including Delphi, Visual Basic, Fox Pro and other.
+- C#: Graph visualization, layout and rendering.
+- VMProtect unpacking and devirtualization.
+
+Or if you have good paid contract :)
+
+# Projects overview
+
+## File Formats
+
+### [Portable Executable](https://github.com/denys-volodarskyi/DV.Formats.PortableExecutable)
+
+Read/write PE files, parse imports, exports, TLS etc.
+
+## Other
+
+### [Unicorn.Net](https://github.com/denys-volodarskyi/unicorn-net)
+
+Fork of Unicorn.Net (CPU emulator). Changed to automatically load pre-built binaries for Windows 32 and 64-bit.
