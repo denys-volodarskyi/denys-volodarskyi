@@ -1,19 +1,12 @@
 ## Hi there 👋
 
-I'm passionate about reverse engineering and creating my own RCE tools. Commercially and for fun. 
+I'm passionate about reverse engineering and creating RCE tools. Commercially and for fun. 
 
 - x86, x64 and ARM. And some less popular.
+- File formats
+- Packers/unpackers
+- Protectors/obfuscation
 - I prefer C# and C++.
-- File formats, packers/unpackers, protectors... (disassembling everything)
-
-Contact me if you're interested to collaborate on:
-
-- C#: Parsing and extracting runtime type information for known compilers,
-  including Delphi, Visual Basic, Fox Pro and other.
-- C#: Graph visualization, layout and rendering.
-- VMProtect unpacking and devirtualization.
-
-Or if you have good paid contract :)
 
 # Projects overview
 
@@ -21,7 +14,7 @@ Or if you have good paid contract :)
 
 ### [Portable Executable](https://github.com/denys-volodarskyi/DV.Formats.PortableExecutable)
 
-Read/write PE files, parse imports, exports, TLS etc.
+Parsing PE files
 
 ## Other
 
