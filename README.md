@@ -1,13 +1,3 @@
-## Hi there 👋
-
-I'm passionate about reverse engineering and creating RCE tools. Commercially and for fun. 
-
-- x86, x64 and ARM. And some less popular.
-- File formats
-- Packers/unpackers
-- Protectors/obfuscation
-- I prefer C# and C++.
-
 # Projects overview
 
 ## File Formats
