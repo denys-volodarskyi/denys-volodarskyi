@@ -4,7 +4,7 @@
 
 ### [Portable Executable](https://github.com/denys-volodarskyi/DV.Formats.PortableExecutable)
 
-Parsing PE files
+Parsing PE files in C#
 
 ## Other
 
